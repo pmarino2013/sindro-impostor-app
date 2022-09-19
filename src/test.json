@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "texto": "Aunque te suele ir bien cuando tienes que afrontar un reto, como un examen, una  conferencia, etc., después de hacerlo te vas con la sensación de no haber cumplido con tus expectativas y te sorprendes cuando ves un resultado muy bueno.",
+    "opciones": [
+      { "opcion": "A", "valor": "Siempre" },
+      { "opcion": "B", "valor": "A menudo" },
+      { "opcion": "C", "valor": "Algunas veces" },
+      { "opcion": "D", "valor": "Nunca" }
+    ]
+  },
+  {
+    "id": 2,
+    "texto": "Sueles sentir miedo de que te evalúen y haces todo lo posible por evitar esa situación.",
+    "opciones": [
+      { "opcion": "A", "valor": "Siempre" },
+      { "opcion": "B", "valor": "A menudo" },
+      { "opcion": "C", "valor": "Algunas veces" },
+      { "opcion": "D", "valor": "Nunca" }
+    ]
+  },
+  {
+    "id": 3,
+    "texto": "Aunque has trabajado mucho para llegar donde estás, sueles atribuir tus logros a un golpe de suerte o a factores externos.",
+    "opciones": [
+      { "opcion": "A", "valor": "Siempre" },
+      { "opcion": "B", "valor": "A menudo" },
+      { "opcion": "C", "valor": "Algunas veces" },
+      { "opcion": "D", "valor": "Nunca" }
+    ]
+  },
+  {
+    "id": 4,
+    "texto": "Te cuesta delegar las tareas porque sientes que el resultado no será el mismo y que no cumplirá con tus expectativas.",
+    "opciones": [
+      { "opcion": "A", "valor": "Siempre" },
+      { "opcion": "B", "valor": "A menudo" },
+      { "opcion": "C", "valor": "Algunas veces" },
+      { "opcion": "D", "valor": "Nunca" }
+    ]
+  },
+  {
+    "id": 5,
+    "texto": "En el trabajo te obsesionas con cada tarea para que sea perfecta.",
+    "opciones": [
+      { "opcion": "A", "valor": "Siempre" },
+      { "opcion": "B", "valor": "A menudo" },
+      { "opcion": "C", "valor": "Algunas veces" },
+      { "opcion": "D", "valor": "Nunca" }
+    ]
+  },
+  {
+    "id": 6,
+    "texto": "A menudo te quedas hasta tarde trabajando, aunque nadie te lo pida.",
+    "opciones": [
+      { "opcion": "A", "valor": "Siempre" },
+      { "opcion": "B", "valor": "A menudo" },
+      { "opcion": "C", "valor": "Algunas veces" },
+      { "opcion": "D", "valor": "Nunca" }
+    ]
+  },
+  {
+    "id": 7,
+    "texto": "Consideras que tienes que conseguirlo todo sin ayuda.",
+    "opciones": [
+      { "opcion": "A", "valor": "Siempre" },
+      { "opcion": "B", "valor": "A menudo" },
+      { "opcion": "C", "valor": "Algunas veces" },
+      { "opcion": "D", "valor": "Nunca" }
+    ]
+  },
+  {
+    "id": 8,
+    "texto": "Te cuesta trabajo intentar algo en lo que no destacas o empezar una actividad completamente nueva.",
+    "opciones": [
+      { "opcion": "A", "valor": "Siempre" },
+      { "opcion": "B", "valor": "A menudo" },
+      { "opcion": "C", "valor": "Algunas veces" },
+      { "opcion": "D", "valor": "Nunca" }
+    ]
+  }
+]

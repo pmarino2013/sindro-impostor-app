@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "resultado": "Mayoría A",
+    "mensaje": "Es hora de confiar en tus capacidades",
+    "detalle": "Tienes las características de una persona con síndrome del impostor en un alto grado,ya que sueles tener una gran dificultad para reconocer y aceptar tus logros. Consideras que todo tiene que ser perfecto desde el primer momento y no te permites el menor error porque sientes que has llegado hasta donde estás únicamente por un golpe de suerte. Los retos, las evaluaciones y las situaciones nuevas te producen un estrés emocional que podría ocasionar bloqueo, ansiedad y hacerte perder nuevas oportunidades. Empieza a confiar en ti y no dejes de lado retos por creer que no estás a la altura. En este sentido, deberías repasar con atención el camino recorrido y valorar lo que has logrado, además de aprender que cometer errores también es una forma de aprendizaje. Y, sobre todo, no te compares con los demás, cada uno ha recorrido su propio camino y ha partido de puntos diferentes.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51VJFAeTGFEXQL2amFv977HckrLnpRBOOFa55sXqmBSYsYICSj_nUCCIWqAOyccil1dg&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "resultado": "Mayoria de B o C",
+    "mensaje": "Aprende a valorarte",
+    "detalle": "Tienes rasgos moderados del síndrome del impostor. A veces sientes que no tienes la suficiente competencia para lograr lo que te propones. Por eso, te puede costar tomar decisiones y apostar por los proyectos que quieres. Este resultado es un pequeño aviso para que estés alerta y comiences a cuidar de tu autoestima antes de que dejes pasar oportunidades valiosas por no sentir que eres capaz de arriesgarte.",
+    "imagen": "https://d2k7w3fmrpj0w4.cloudfront.net/advices/photos/000/000/449/medium/67eb76cc9ed1d11376f80131c82936101757bedf.jpg?1582311586"
+  },
+  {
+    "id": 3,
+    "resultado": "Mayoría de D",
+    "mensaje": "Vas por buen camino",
+    "detalle": "Enhorabuena, casi no tienes síntomas del síndrome del impostor a la hora de realizar tus actividades cotidianas y desarrollarte en el plano profesional. Sabes volver la vista atrás y reconocer tu propio esfuerzo, te desenvuelves como pez en el agua ante cualquier tipo de situación y te sobrepones al miedo de fallar, porque sabes que sin ese riesgo no aparecen nuevas oportunidades. Si te has identificado con alguna de las tres opciones, seguramente se deba a alguna situación especial y circunstancial que haya afectado de manera puntual tu seguridad en ti mismo.",
+    "imagen": "https://images.ecestaticos.com/hvohP34GLnPLZUW86qH09B88yq4=/21x178:2683x1672/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe67%2Ff21%2F804%2Fe67f2180467ece2edb1359fda5cce5f0.jpg"
+  }
+]
