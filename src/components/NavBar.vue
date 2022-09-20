@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar bg-success">
+  <nav class="navbar bg-success sticky-top">
     <div class="container-fluid">
       <router-link
         class="navbar-brand d-flex gap-2 align-items-center text-white"
