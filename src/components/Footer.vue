@@ -1,6 +1,8 @@
 <template>
-  <div class="container-fluid bg-success footer">
-    <div class="row h-100 p-3 justify-content-between align-items-center">
+  <div class="container-fluid bg-success">
+    <div
+      class="row h-100 p-3 justify-content-between align-items-center footer"
+    >
       <div class="col-12 col-md-6 text-center text-md-start">
         <img :src="logo" alt="logo" />
       </div>

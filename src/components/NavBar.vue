@@ -8,6 +8,14 @@
         <img :src="logo" alt="Logo" class="d-inline-block align-text-top" />
         <span>Sindrome del impostor</span>
       </router-link>
+
+      <ul class="navbar-nav">
+        <li class="nav-item me-4">
+          <router-link class="nav-link text-white" to="/about"
+            >About</router-link
+          >
+        </li>
+      </ul>
     </div>
   </nav>
 </template>
