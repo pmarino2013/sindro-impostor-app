@@ -11,7 +11,7 @@
           <img class="img-avatar" :src="avatar" alt="Pablo Marino" />
         </div>
       </div>
-      <div class="col-12 col-md mt-3 text-center text-md-start">
+      <div class="col-12 col-md mt-3 pt-md-3 text-center text-md-start">
         <p>
           Me llamo <span class="text-success fw-bold">Pablo Marino</span>, soy
           un entusiasta del desarrollo web y me gusta todo lo relacionado con la
@@ -69,5 +69,15 @@ p {
 }
 p a {
   display: inline-block;
+}
+
+@media (min-width: 1024px) {
+  .img-avatar {
+    width: 400px;
+    border-radius: 50px;
+  }
+  p {
+    font-size: 30px;
+  }
 }
 </style>
