@@ -5,7 +5,7 @@
         <h1>¿Tienes el síndrome del impostor? ¡Descúbrelo aquí!</h1>
       </div>
     </div>
-    <div class="row row-cols-1 row-cols-md-2 mt-5 g-4">
+    <div class="row row-cols-1 row-cols-md-2 mt-2 mt-md-3 g-4">
       <div class="col" v-for="pregunta in test" :key="pregunta.id">
         <div class="card h-100 p-0">
           <div class="card-header bg-success text-white h-100">
