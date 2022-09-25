@@ -69,10 +69,6 @@
             >
           </div>
         </div>
-
-        <!-- <aside class="col col-md-2 col-lg-3">
-          <Publicidad />
-        </aside> -->
       </div>
     </div>
   </section>
@@ -83,7 +79,6 @@ import imagen1 from "../assets/01.jpg";
 import imagen2 from "../assets/02.jpg";
 
 import imagen3 from "../assets/03.jpg";
-import Publicidad from "../components/Publicidad.vue";
 </script>
 
 <style scoped>

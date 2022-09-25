@@ -6,7 +6,7 @@
       <div class="col-12 col-md-6 text-center text-md-start">
         <img :src="logo" alt="logo" />
       </div>
-      <div class="col text-white text-end">
+      <div class="col text-white text-center text-md-end">
         <span>&copy;2022 - Todos los derechos reservados</span>
       </div>
     </div>
