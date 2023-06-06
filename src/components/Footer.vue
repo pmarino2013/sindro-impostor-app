@@ -7,14 +7,16 @@
         <img :src="logo" alt="logo" />
       </div>
       <div class="col text-white text-center text-md-end">
-        <span>&copy;2022 - Todos los derechos reservados</span>
+        <span>&copy;{{ anio }} - Todos los derechos reservados</span>
       </div>
     </div>
   </div>
 </template>
 
 <script setup>
+import { ref } from "vue";
 import logo from "../assets/logorolling.png";
+const anio = ref(new Date().getFullYear());
 </script>
 
 <style scoped>
