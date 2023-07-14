@@ -56,7 +56,7 @@
 </template>
 
 <script setup>
-import avatar from "../assets/avatar.png";
+import avatar from "../assets/avatar2023.jpeg";
 </script>
 
 <style scoped>

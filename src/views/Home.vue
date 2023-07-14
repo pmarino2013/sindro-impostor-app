@@ -65,7 +65,9 @@
           </p>
           <div class="d-grid my-3">
             <router-link class="btn btn-success" to="/test">
-              ¿Tienes el síndrome del impostor? Descúbrelo aquí</router-link
+              ¿Tienes el síndrome del impostor? <br /><b
+                >Descúbrelo aquí</b
+              ></router-link
             >
           </div>
         </div>
