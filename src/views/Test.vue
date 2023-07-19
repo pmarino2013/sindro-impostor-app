@@ -87,4 +87,4 @@ const verResultado = () => {
 };
 </script>
 
-<style></style>
+<style scope></style>
