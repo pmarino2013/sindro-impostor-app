@@ -87,4 +87,12 @@ const verResultado = () => {
 };
 </script>
 
-<style></style>
+<style scope>
+input[type="radio"] {
+  cursor: pointer;
+}
+input[type="radio"]:checked {
+  box-shadow: 0 0 0 3px #198754;
+  background-color: #198754;
+}
+</style>
