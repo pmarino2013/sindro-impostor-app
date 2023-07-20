@@ -1,7 +1,7 @@
 <template>
   <div
     id="carousel"
-    class="carousel slide carousel-fade"
+    class="carousel slide carousel-fade animate__animated animate__fadeIn"
     data-bs-ride="carousel"
     data-bs-pause="off"
   >
