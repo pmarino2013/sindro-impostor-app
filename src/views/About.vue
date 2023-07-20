@@ -8,7 +8,11 @@
         class="col-12 col-md d-flex justify-content-center align-items-center"
       >
         <div class="content-img">
-          <img class="img-avatar" :src="avatar" alt="Pablo Marino" />
+          <img
+            class="img-avatar animate__animated animate__fadeIn"
+            :src="avatar"
+            alt="Pablo Marino"
+          />
         </div>
       </div>
       <div class="col-12 col-md mt-3 pt-md-3 text-center text-md-start">
